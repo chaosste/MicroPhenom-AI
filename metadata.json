@@ -1,0 +1,7 @@
+{
+  "name": "MicroPhenom AI",
+  "description": "A voice-enabled research tool for conducting, recording, and analyzing micro-phenomenology interviews using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
